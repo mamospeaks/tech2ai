@@ -8,8 +8,9 @@ __If you're viewing this in Cursor, please right click on the file in the left s
 
 ## Essential links:   
 - The course [resources](https://edwarddonner.com/2024/10/16/from-software-engineer-to-ai-data-scientist-resources/)
-- My complete [AI Engineer Curriculum](https://edwarddonner.com/2025/05/28/connecting-my-courses-become-an-llm-expert-and-leader/) to become a proficient AI Engineer
-- All my [Live Events](https://edwarddonner.com/2025/11/11/ai-live-event/)
+- My complete [AI Engineer Curriculum](https://edwarddonner.com/curriculum/) to become an AI Engineer, AI Builder and AI Leader  
+- All my [Live Events](https://edwarddonner.com/2025/11/11/ai-live-event/)  
+- My program to join the [Proficient AI Engineer Directory](https://edwarddonner.com/proficient/)
 
 If you'd like to stay in touch, please [connect](https://www.linkedin.com/in/eddonner/) with me on LinkedIn
 
