@@ -1,10 +1,13 @@
-# Deal of the Day
+# Best Bargain Deal
 
-## Refurbished Unlocked Samsung Galaxy S22 5G (128GB)
-- **Deal Price:** $143.00
-- **Estimated True Value:** $439.99
-- **Savings:** ~$297
-- **Details:** Snapdragon 8 Gen 1, 8GB RAM, 6.1" AMOLED, 108MP rear / 40MP front cameras, factory unlocked, Android OS, 1-year Allstate warranty.
-- **Get the deal here:** [Deal Link](https://www.dealnews.com/products/Samsung/Refurb-Unlocked-Samsung-Galaxy-S22-5-G-128-GB-Smartphone/476249.html?iref=rss-c142)
+## Open-box Microsoft Surface Laptop 3 (13.5")
+- **Processor:** Intel i7-1065G7 Quad-core
+- **RAM:** 16 GB
+- **Storage:** 256 GB SSD
+- **Display:** 13.5-inch, 2256 x 1504 pixel, touchscreen
+- **Condition:** Open-box
+- **Typical Value:** ~$775
+- **Bargain Price:** $300 ([See deal here](https://www.dealnews.com/products/Microsoft/Microsoft-Surface-Laptop-3-Intel-i7-13-5-Laptop/497253.html?iref=rss-c39))
 
-This is a massive bargain on a high-end refurbished flagship smartphone, offering more than triple the value for the price.
+**Why it’s compelling:**
+This is an ultraportable premium laptop with a high-res display, quad-core power, and 16 GB RAM—a huge deal at less than half its estimated value. Perfect for productivity and lightweight content creation.
